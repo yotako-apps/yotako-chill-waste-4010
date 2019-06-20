@@ -1,0 +1,356 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/yjqtccjx520wji.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 375px;
+    height: 667px;
+    flex-direction: column
+  }
+  .style1 {
+    color: #d8454c;
+    text-align: center;
+    font-family: Montserrat,serif;
+    font-size: 3.3125em;
+    font-weight: 700;
+    margin-left: 109px;
+    margin-top: 19px;
+    height: 47px
+  }
+  .style2 {
+    margin-left: 42px;
+    margin-top: 91px;
+    width: 302px;
+    height: 58px
+  }
+  .style3 {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: relative;
+    background-color: #fff;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    text-indent: 87px;
+    display: flex;
+    margin-top: 81px;
+    width: 304px;
+    height: 239px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: flex-end
+  }
+  .yjqtccjx520yg8,
+  .yjqtccjx520yg8::placeholder {
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    position: absolute;
+    color: #d8454c;
+    text-align: center;
+    font-family: Montserrat,serif;
+    font-size: 1.8125em;
+    font-weight: 300;
+    text-indent: 87px
+  }
+  .style5 {
+    background-color: #ed1c24;
+    border-top-left-radius: 31px;
+    border-top-right-radius: 31px;
+    border-bottom-left-radius: 31px;
+    border-bottom-right-radius: 31px;
+    display: flex;
+    margin-left: 47px;
+    width: 223px;
+    height: 72px;
+    flex-direction: column
+  }
+  .style6 {
+    color: #ed1c24;
+    text-align: center;
+    font-family: Montserrat,serif;
+    font-size: 3.125em;
+    font-weight: 300;
+    line-height: 88px;
+    margin-left: 21px;
+    width: 155px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/yjqtccjx520wji.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 768px;
+    height: 1366px;
+    flex-direction: column
+  }
+  .style1 {
+    color: #d8454c;
+    text-align: center;
+    font-family: Montserrat,serif;
+    font-size: 6.784em;
+    font-weight: 700;
+    margin-left: 223px;
+    margin-top: 39px;
+    height: 96px
+  }
+  .style2 {
+    margin-left: 86px;
+    margin-top: 186px;
+    width: 618px;
+    height: 119px
+  }
+  .style3 {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: relative;
+    background-color: #fff;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    text-indent: 178px;
+    display: flex;
+    margin-top: 166px;
+    width: 623px;
+    height: 489px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: flex-end
+  }
+  .yjqtccjx520yg8,
+  .yjqtccjx520yg8::placeholder {
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    position: absolute;
+    color: #d8454c;
+    text-align: center;
+    font-family: Montserrat,serif;
+    font-size: 3.712em;
+    font-weight: 300;
+    text-indent: 178px
+  }
+  .style5 {
+    background-color: #ed1c24;
+    border-top-left-radius: 31px;
+    border-top-right-radius: 31px;
+    border-bottom-left-radius: 31px;
+    border-bottom-right-radius: 31px;
+    display: flex;
+    margin-left: 96px;
+    width: 457px;
+    height: 147px;
+    flex-direction: column
+  }
+  .style6 {
+    color: #ed1c24;
+    text-align: center;
+    font-family: Montserrat,serif;
+    font-size: 6.4em;
+    font-weight: 300;
+    line-height: 180px;
+    margin-left: 43px;
+    width: 317px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/yjqtccjx520wji.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 920px;
+    height: 1636px;
+    flex-direction: column
+  }
+  .style1 {
+    color: #d8454c;
+    text-align: center;
+    font-family: Montserrat,serif;
+    font-size: 8.126666666666665em;
+    font-weight: 700;
+    margin-left: 267px;
+    margin-top: 47px;
+    height: 115px
+  }
+  .style2 {
+    margin-left: 103px;
+    margin-top: 223px;
+    width: 741px;
+    height: 142px
+  }
+  .style3 {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: relative;
+    background-color: #fff;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    text-indent: 213px;
+    display: flex;
+    margin-top: 199px;
+    width: 746px;
+    height: 586px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: flex-end
+  }
+  .yjqtccjx520yg8,
+  .yjqtccjx520yg8::placeholder {
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    position: absolute;
+    color: #d8454c;
+    text-align: center;
+    font-family: Montserrat,serif;
+    font-size: 4.446666666666666em;
+    font-weight: 300;
+    text-indent: 213px
+  }
+  .style5 {
+    background-color: #ed1c24;
+    border-top-left-radius: 31px;
+    border-top-right-radius: 31px;
+    border-bottom-left-radius: 31px;
+    border-bottom-right-radius: 31px;
+    display: flex;
+    margin-left: 115px;
+    width: 547px;
+    height: 177px;
+    flex-direction: column
+  }
+  .style6 {
+    color: #ed1c24;
+    text-align: center;
+    font-family: Montserrat,serif;
+    font-size: 7.666666666666666em;
+    font-weight: 300;
+    line-height: 216px;
+    margin-left: 52px;
+    width: 380px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/yjqtccjx520wji.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 1200px;
+    height: 2134px;
+    flex-direction: column
+  }
+  .style1 {
+    color: #d8454c;
+    text-align: center;
+    font-family: Montserrat,serif;
+    font-size: 10.600000000000001em;
+    font-weight: 700;
+    margin-left: 349px;
+    margin-top: 61px;
+    height: 150px
+  }
+  .style2 {
+    margin-left: 134px;
+    margin-top: 291px;
+    width: 966px;
+    height: 186px
+  }
+  .style3 {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: relative;
+    background-color: #fff;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    text-indent: 278px;
+    display: flex;
+    margin-top: 259px;
+    width: 973px;
+    height: 765px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: flex-end
+  }
+  .yjqtccjx520yg8,
+  .yjqtccjx520yg8::placeholder {
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    position: absolute;
+    color: #d8454c;
+    text-align: center;
+    font-family: Montserrat,serif;
+    font-size: 5.800000000000001em;
+    font-weight: 300;
+    text-indent: 278px
+  }
+  .style5 {
+    background-color: #ed1c24;
+    border-top-left-radius: 31px;
+    border-top-right-radius: 31px;
+    border-bottom-left-radius: 31px;
+    border-bottom-right-radius: 31px;
+    display: flex;
+    margin-left: 150px;
+    width: 714px;
+    height: 230px;
+    flex-direction: column
+  }
+  .style6 {
+    color: #ed1c24;
+    text-align: center;
+    font-family: Montserrat,serif;
+    font-size: 10em;
+    font-weight: 300;
+    line-height: 282px;
+    margin-left: 67px;
+    width: 496px
+  }
+}
